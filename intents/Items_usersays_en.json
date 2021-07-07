@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0c371131-625b-455d-ac49-0e0616dd2f0f",
+    "data": [
+      {
+        "text": "Jalebis",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e30033-bdc8-4bb5-9fb8-b71c8bb47a83",
+    "data": [
+      {
+        "text": "Samosa",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4af00ac-1359-404f-871a-43cd9aefaedd",
+    "data": [
+      {
+        "text": "Sandwich",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35c28094-ceda-475a-839b-ca9ad0f0f836",
+    "data": [
+      {
+        "text": "Falooda",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da8c80fc-41ca-455d-8d3a-679c163c6d92",
+    "data": [
+      {
+        "text": "Jamun",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dd45f29-9fd2-455c-8be4-e0b034e12308",
+    "data": [
+      {
+        "text": "IceCream",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b5b7f56-6b5e-4d25-8130-6099c2c0ecce",
+    "data": [
+      {
+        "text": "Soda",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28012b1d-525c-4331-a56b-3325e508ae33",
+    "data": [
+      {
+        "text": "Biryani",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
